@@ -20,3 +20,9 @@
 
 -Continuo estudando e sempre aprendendo coisas novas, pretendo me formar em Matemática Aplicada em breve e trabalhar como um cientista de dados 🙂
 
+###Habilidades:
+
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=MySQL&color=&style=flat&logo=MySQL&logoColor=5b0000"></a>
+
+
+
