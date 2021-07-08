@@ -20,8 +20,16 @@
 
 -Continuo estudando e sempre aprendendo coisas novas, pretendo me formar em Matemática Aplicada em breve e trabalhar como um cientista de dados 🙂
 
-###Habilidades:
-
+### Habilidades:
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Python&color=&style=flat&logo=Python&logoColor=yellow"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Pandas&color=&style=flat&logo=Pandas&logoColor=black"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=numpy&color=&style=flat&logo=numpy&logoColor=orange"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Matplotlib&color=&style=flat"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Seaborn&color=&style=flat&logo=Seaborn&logoColor=black"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=scikit-learning&color=&style=flat&logo=sklearning&logoColor=black"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Jupyter%20Notebook&color=&style=flat&logo=jupyter&logoColor=orange"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=tkinter&color=&style=flat&logo=tcltk&logoColor=orange"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Linux&color=&style=flat&logo=linux&logoColor=black"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=MySQL&color=&style=flat&logo=MySQL&logoColor=5b0000"></a>
 
 
