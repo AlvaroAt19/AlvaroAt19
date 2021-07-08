@@ -11,7 +11,7 @@
 
 -Comecei a me dedicar a matemática aplicada, muitas das matérias do curso eu já havia feito pois eram as mesmas da Licenciatura/Matemática, comecei a ter interesse pela ciência de dados e estudar sobre o assunto, aprendi as bibliotecas Pandas, Seaborn, Scikit-Learning, aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
 
--O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e sentir vontade de contribuir para o mundo OpenSource
+-O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e tenho vontade de contribuir para o mundo OpenSource
 
 -Continuo estudando e sempre aprendendo coisas novas, pretendo me formar em Matemática Aplicada em breve e trabalhar como um cientista de dados 🙂
 
