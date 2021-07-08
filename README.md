@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/alvaroat19/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%230076D6" alt="website"/></a>
 <a href="https://www.instagram.com/alvaroat.19/"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Instagram&color=5b0000&style=flat&logo=instagram&logoColor=%ff0000" alt="website"/></a>
+<a href="https://tryhackme.com/p/bannager"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=TryHackMe&color=black&style=flat&logo=tryhackme&logoColor=black" alt="website"/></a>
 
 ### Sobre mim:
 -Estou graduando em matemática pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
@@ -31,6 +32,3 @@
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=tkinter&color=&style=flat&logo=tcltk&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Linux&color=&style=flat&logo=linux&logoColor=black"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=MySQL&color=&style=flat&logo=MySQL&logoColor=5b0000"></a>
-
-
-
