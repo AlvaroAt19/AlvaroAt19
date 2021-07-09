@@ -13,7 +13,7 @@
 
 -O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e tenho vontade de contribuir para o mundo OpenSource
 
--Continuo estudando e sempre aprendendo coisas novas, e, em breve, pretendo me formar em Matemática Aplicada
+-Continuo estudando e sempre aprendendo coisas novas, e, se tudo der certo, estarei formado antes do final de 2022
 
 ### Habilidades:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Python&color=&style=flat&logo=Python&logoColor=yellow"></a>
