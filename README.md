@@ -9,7 +9,7 @@
 
 -Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016, no entanto a vida militar não foi pra mim.
 
--Comecei a me dedicar a matemática aplicada, muitas das matérias do curso eu já havia feito pois eram as mesmas da Licenciatura/Matemática, comecei a ter interesse pela ciência de dados e estudar sobre o assunto, aprendi as bibliotecas Pandas, Seaborn, Scikit-Learning, aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
+-Comecei a me dedicar a matemática aplicada, muitas das matérias do curso eu já havia feito pois eram as mesmas da Matemática. Comecei a ter interesse pela ciência de dados e estudar sobre o assunto, aprendi python e as bibliotecas Pandas, Seaborn, Scikit-Learning, aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
 
 -O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e tenho vontade de contribuir para o mundo OpenSource
 
