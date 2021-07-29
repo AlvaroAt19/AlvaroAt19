@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=numpy&color=&style=flat&logo=numpy&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Matplotlib&color=&style=flat"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Seaborn&color=&style=flat&logo=Seaborn&logoColor=black"></a>
-<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=scikit-learn&color=&style=flat&logo=sklearn&logoColor=orange"></a>
+<img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Scikit-learn&color=&style=flat&logo=scikit-learn&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Jupyter%20Notebook&color=&style=flat&logo=jupyter&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=tkinter&color=&style=flat&logo=tcltk&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Linux&color=&style=flat&logo=linux&logoColor=black"></a>
