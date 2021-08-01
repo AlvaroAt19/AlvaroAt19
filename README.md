@@ -5,7 +5,7 @@
 <a href="https://tryhackme.com/p/bannager"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=TryHackMe&color=black&style=flat&logo=tryhackme&logoColor=black" alt="website"/></a>
 
 ### Sobre mim:
--Estou graduando em matemática pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
+-Estou graduando em matemática aplicada pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
 
 -Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016, no entanto a vida militar não foi pra mim.
 
