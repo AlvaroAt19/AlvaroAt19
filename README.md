@@ -7,9 +7,9 @@
 ### Sobre mim:
 -Estou graduando em matemática aplicada pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
 
--Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016, no entanto a vida militar não foi pra mim.
+-Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016.
 
--Antes de entrar para a matématica aplicada passei pelos curso de licenciatura em matemática e pelo curso de matemática, até que, na pandemia, comecei a me dedicar a matemática aplicada. 
+-Antes de entrar para a matemática aplicada passei pelos curso de licenciatura em matemática e pelo curso de matemática, até que, na pandemia, comecei a me dedicar a matemática aplicada. 
 
 -Durante os cursos mais computacionais da matemática aplicada desenvolvi interesse pela programação e pela ciência de dados e comecei a estudar sobre o assunto. Aprendi python e de começo busquei aprender o "pacote data science"(Pandas,numpy, Seaborn, Scikit-Learn,...) aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
 
