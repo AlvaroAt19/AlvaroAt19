@@ -9,11 +9,15 @@
 
 -Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016, no entanto a vida militar não foi pra mim.
 
--Comecei a me dedicar a matemática aplicada, muitas das matérias do curso eu já havia feito pois eram as mesmas da Matemática. Comecei a ter interesse pela ciência de dados e estudar sobre o assunto, aprendi python e as bibliotecas Pandas, Seaborn, Scikit-Learn, aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
+-Antes de entrar para a matématica aplicada passei pelos cursos de licenciatura em matemática, e matemática, até que na pandemia comecei a me dedicar a matemática aplicada. Muitas das matérias do curso eu já havia feito pois eram as mesmas da Matemática. 
+
+-Durante os cursos computacionais da matemática aplicada desenvolvi interesse pela programação e pela ciência de dados, e comecei a estudar sobre o assunto. Aprendi python e de começo busquei aprender o "pacote data science"(Pandas,numpy, Seaborn, Scikit-Learn,...) aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
 
 -O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e tenho vontade de contribuir para o mundo OpenSource
 
--Continuo estudando e sempre aprendendo coisas novas, e, se tudo der certo, estarei formado antes do final de 2022
+-Continuo estudando,estou sempre aprendendo coisas novas e buscando melhorar as que já aprendi. 
+
+-Aproveite para olhar um de meus repositórios, você vai encontrar algumas análises de dados onde eu faço a limpeza e tratamento dos dados, gero visualizações. testo algumas hipóteses e crio modelos preditivos, ou vai encontrar códigos python onde eu utilizo coisas como Flask, Tkinter, Sqlite, entre outros :)
 
 ### Habilidades:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Python&color=&style=flat&logo=Python&logoColor=yellow"></a>
