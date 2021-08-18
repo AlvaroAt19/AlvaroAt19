@@ -9,9 +9,9 @@
 
 -Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016, no entanto a vida militar não foi pra mim.
 
--Antes de entrar para a matématica aplicada passei pelos cursos de licenciatura em matemática, e matemática, até que na pandemia comecei a me dedicar a matemática aplicada. Muitas das matérias do curso eu já havia feito pois eram as mesmas da Matemática. 
+-Antes de entrar para a matématica aplicada passei pelos curso de licenciatura em matemática e pelo curso de matemática, até que, na pandemia, comecei a me dedicar a matemática aplicada. 
 
--Durante os cursos computacionais da matemática aplicada desenvolvi interesse pela programação e pela ciência de dados, e comecei a estudar sobre o assunto. Aprendi python e de começo busquei aprender o "pacote data science"(Pandas,numpy, Seaborn, Scikit-Learn,...) aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
+-Durante os cursos mais computacionais da matemática aplicada desenvolvi interesse pela programação e pela ciência de dados e comecei a estudar sobre o assunto. Aprendi python e de começo busquei aprender o "pacote data science"(Pandas,numpy, Seaborn, Scikit-Learn,...) aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
 
 -O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe, comecei a utilizar Linux e tenho vontade de contribuir para o mundo OpenSource
 
