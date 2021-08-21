@@ -3,6 +3,8 @@
 <a href="https://www.linkedin.com/in/alvaroat19/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%230076D6" alt="website"/></a>
 <a href="https://www.instagram.com/alvaroat.19/"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Instagram&color=5b0000&style=flat&logo=instagram&logoColor=%ff0000" alt="website"/></a>
 <a href="https://tryhackme.com/p/bannager"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=TryHackMe&color=black&style=flat&logo=tryhackme&logoColor=black" alt="website"/></a>
+<a href="https://www.hackerrank.com/Alvaroalves11"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HackerRank&color=gray&style=flat&logo=hackerrank&logoColor=green
+" alt="website"/></a>
 
 ### Sobre mim:
 -Estou graduando em matemática aplicada pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
