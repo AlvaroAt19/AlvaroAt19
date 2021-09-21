@@ -33,7 +33,3 @@
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=tkinter&color=&style=flat&logo=tcltk&logoColor=orange"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Linux&color=&style=flat&logo=linux&logoColor=black"></a>
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=MySQL&color=&style=flat&logo=MySQL&logoColor=5b0000"></a>
-
-### Repositório principal:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroAt19&repo=Homi_dos_dados&theme=dark)](https://github.com/AlvaroAt19/Homi_dos_dados)
-
