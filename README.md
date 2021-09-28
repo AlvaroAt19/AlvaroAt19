@@ -6,21 +6,15 @@
 <a href="https://www.hackerrank.com/Alvaroalves11"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HackerRank&color=gray&style=flat&logo=hackerrank&logoColor=green" alt="website"/></a>
 
 ### Sobre mim:
--Estou graduando em matemática aplicada pela Universidade Federal do Rio de Janeiro(Melhor do Brasil ☺️).
+Olá :) Fico feliz que esteja olhando meu perfil. 
+Para quem não me conhece sou o Alvaro e atualmente estou graduando em matemática aplicada pela Universidade Federal do Rio de Janeiro(Melhor do Brasil :p ).
 
--Antes de entrar na faculdade fui concurseiro militar e aprovado em 36° lugar para o Colégio Naval em 2015/2016.
+Antes de entrar para a matemática aplicada percorri um certo caminho. Fui concurseiro militar e aprovado em 2015 para o concurso do Colégio Naval. Em 2018 entrei na UFRJ no curso de licenciatura em matemática, em 2019 mudei para o bacharelado em matemática, porém em 2020 quando fiz uma matéria específica da matemática aplicada, me encantei pelo curso e resolvi fazer transferência.
+A matéria em questão se chama Computação científica e nela aprendemos a resolver problemas matemáticos de forma numérica utilizando uma linguagem de programação, e, graças a ela, comecei a explorar mais meu gosto por tecnologia, algo que faz parte da minha vida desde os 3 anos  de idade quando ganhei meu primeiro computador.
 
--Antes de entrar para a matemática aplicada passei pelo curso de licenciatura em matemática e pelo curso de matemática, até que, na pandemia, comecei a me dedicar a matemática aplicada, gostei e resolvi fazer a transferência.
+Após ter essa chave virada na minha cabeça comecei a aprender mais sobre programação em python, comecei focando no estudo de dados e estudando as principais bibliotecas para Data Science/Machine Learning (Pandas,numpy, Seaborn, Scikit-Learn,...), nesse viés também aprendi MySQL e raspagem de dados. No entanto durante esse percurso acabei explorando outras possibilidades mais voltadas ao desenvolvimento como orientação a objetos, um pouco de API, testes unitários e etc, estudei um pouco de Flask e FastAPI, segurança da informação(Olhem meu perfil no TryHackMe: https://tryhackme.com/p/bannager)  e Linux (Atualmente utilizo o Manjaro)
 
--Durante os cursos mais computacionais da matemática aplicada desenvolvi interesse pela programação e pela ciência de dados, e comecei a estudar sobre o assunto. Aprendi python e de começo busquei aprender o "pacote data science"(Pandas,numpy, Seaborn, Scikit-Learn,...) aprendi também um pouco de interfaces gráficas com Tkinter, web-scraping com o BS4 e etc...
-
--O gosto pela programação me levou a aprender mais sobre tecnologia, estudei um pouco de segurança da informação e fiz diversas salas e CTFs no TryHackMe.
-
---Atualmente utilizo Linux, e tenho vontade de contribuir para o mundo OpenSource.
-
--Continuo estudando,estou sempre aprendendo coisas novas e buscando melhorar as que já aprendi. 
-
--Aproveite para olhar um de meus repositórios, você vai encontrar algumas análises de dados onde eu faço a limpeza e tratamento dos dados, gero visualizações. testo algumas hipóteses e crio modelos preditivos, ou vai encontrar códigos python onde eu utilizo coisas como Flask, Tkinter, Sqlite, entre outros :)
+Bom, essa foi minha trajetória até aqui. Meus estudos continuam, afinal nessa área que escolhi sempre haverão coisas novas para aprender. Dê uma olhada nos meus repositórios, tem análises de dados, machine learning, programas em python e em breve estarei criando projetos em Rust, a segunda linguagem que estou aprendendo.
 
 ### Habilidades:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Python&color=&style=flat&logo=Python&logoColor=yellow"></a>
