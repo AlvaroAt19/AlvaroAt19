@@ -6,7 +6,8 @@
 <a href="https://www.hackerrank.com/Alvaroalves11"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HackerRank&color=gray&style=flat&logo=hackerrank&logoColor=green" alt="website"/></a>
 
 ### Sobre mim:
-Olá! Que bom tê-lo aqui no meu perfil
+Olá! Que bom tê-lo aqui no meu perfil.
+
 Eu sou o Alvaro, sou formado em matemática aplicada pela UFRJ(esperando a colação de grau), e engenheiro de dados na Solvimm.
 Trabalho principalmente utilizando python/pyspark e tecnologias AWS(S3,SNS, SQS, Redshift, lambda, ...)
 Tenho experiência com Linux, SQL, docker, API, terraform, NLP e processamento de imagens
