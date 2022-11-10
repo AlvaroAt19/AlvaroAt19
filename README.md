@@ -6,12 +6,11 @@
 <a href="https://www.hackerrank.com/Alvaroalves11"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HackerRank&color=gray&style=flat&logo=hackerrank&logoColor=green" alt="website"/></a>
 
 ### Sobre mim:
-Olá, para quem não me conhece sou o Alvaro e atualmente estou no último período da graduação em matemática aplicada pela Universidade Federal do Rio de Janeiro
-
-Antes de decidir trabalhar com programação percorri um certo caminho. Fui concurseiro militar e, em 2015, fui aprovado em 36° lugar no concurso do Colégio Naval. Além disso já fui monitor de matemática e trabalhei bastante com turmas preparatórias devido a minha experiência/vivência, e também já fui monitor do apoio de cálculo 1 na faculdade,
-
-Tenho experiência com Python, Ciência/engenharia de dados, desenvolvimento, e etc...
-Estou aprendendo Rust como minha segunda linguagem, e, quem sabe um dia, quando rust tiver mais participação, contribuir para o kernel linux
+Olá! Que bom tê-lo aqui no meu perfil
+Eu sou o Alvaro, sou formado em matemática aplicada pela UFRJ(esperando a colação de grau), e engenheiro de dados na Solvimm.
+Trabalho principalmente utilizando python/pyspark e tecnologias AWS(S3,SNS, SQS, Redshift, lambda, ...)
+Tenho experiência com Linux, SQL, docker, API, terraform, NLP e processamento de imagens
+Ultimamente tenho dedicado meus estudos para tirar certificações AWS e aprender Rust
 
 ### Habilidades:
 <img src="https://img.shields.io/static/v1?label=&labelColor=white&message=Python&color=&style=flat&logo=Python&logoColor=yellow"></a>
